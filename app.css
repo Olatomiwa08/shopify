@@ -389,7 +389,6 @@ a{
   display: flex;
   flex-direction: column;
   width: 100%;
-  background: red;
 }
 .setup .guide {
   display: flex;
